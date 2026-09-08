@@ -1,0 +1,9 @@
+{
+  "name": "priest-tech-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "PRIEST TECH Website with secure PRIEST AI backend",
+  "dependencies": {
+    "groq-sdk": "^0.33.0"
+  }
+}
